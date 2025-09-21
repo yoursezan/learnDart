@@ -1,3 +1,5 @@
+// import 'class2.dart';
+import 'ooop_Static.dart';
 main(){
   /// oop 2nd chapter
   /// in oop, there are some main concepts
@@ -25,12 +27,17 @@ main(){
 
  // for call , $objectname.variableName
   print('${iPhone.mobileName}, ${iPhone.year}');
+  print(iPhone.section);
+
+  print(animal.className);
+
 
 }
 
 class Mobile{
   late String mobileName;
   late int year;
+  int ? section;
 
 
   // constructor
