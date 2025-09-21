@@ -31,7 +31,7 @@ class Student {
   late int age;
   late String address;
 
-  // methods (boisistho)
+  // methods (boisistho) functions
 StudentExam(){
   print('Student Exam');
 }
