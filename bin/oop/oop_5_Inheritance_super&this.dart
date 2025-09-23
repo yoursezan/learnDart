@@ -2,7 +2,7 @@
 /// super keyword diye parent class er value call kore
 ///
 
-class animal{
+  class animal{
   String name;
   int age;
   String leg = "4 lags";
@@ -36,6 +36,9 @@ main(){
   print(animal('Tom', 40));
 
   print('${BedDog.leg}');
+
+
+  animal a = animal('Jerry', 1);
 
 
 }

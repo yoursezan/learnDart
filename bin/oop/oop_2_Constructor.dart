@@ -1,5 +1,5 @@
 // import 'class2.dart';
-import 'ooop_Static.dart';
+import 'oop_3_Static.dart';
 main(){
   /// oop 2nd chapter
   /// in oop, there are some main concepts
